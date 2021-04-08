@@ -27,6 +27,9 @@
 * Useful Backpacks  
 [官網](https://www.curseforge.com/minecraft/mc-mods/useful-backpacks)
 [下載](/mods/useful_backpacks-1.16.5-1.12.0.88.zip)
+* Inventory Profiles  
+[官網](https://www.curseforge.com/minecraft/mc-mods/inventory-profiles)
+[下載](/mods/inventoryprofiles-forge-1.16.2-0.4.2.zip)
 ## 地圖
 * Xaero's World Map  
 [官網](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map)
@@ -109,3 +112,7 @@
 * Grave Stone  
 [官網](https://www.curseforge.com/minecraft/mc-mods/gravestone-mod)
 [下載](/mods/gravestone-1.16.5-1.0.1.zip)
+## 強化
+* MrCrayfish's Gun  
+[官網](https://www.curseforge.com/minecraft/mc-mods/mrcrayfishs-gun-mod)
+[下載](/mods/cgm-1.0.1-1.16.3.zip)

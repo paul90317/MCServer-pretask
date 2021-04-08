@@ -83,9 +83,6 @@
 [官網](https://www.curseforge.com/minecraft/mc-mods/progressive-bosses)
 [下載](/mods/ProgressiveBosses-2.2.0-mc1.16.x.zip)
 ## 經驗值
-* Anvil Tweaks  
-[官網](https://www.curseforge.com/minecraft/mc-mods/anvil-tweaks)
-[下載](/mods/anviltweaks-3.1.zip)
 * Exp Ore  
 [官網](https://www.curseforge.com/minecraft/mc-mods/exp-ore-block-mod)
 [下載](/mods/exp_ore-1.16.4-1.2.zip)
@@ -113,7 +110,14 @@
 * Grave Stone  
 [官網](https://www.curseforge.com/minecraft/mc-mods/gravestone-mod)
 [下載](/mods/gravestone-1.16.5-1.0.1.zip)
-## 強化
+## 槍械
 * MrCrayfish's Gun  
 [官網](https://www.curseforge.com/minecraft/mc-mods/mrcrayfishs-gun-mod)
 [下載](/mods/cgm-1.0.1-1.16.3.zip)
+## 附魔
+* Anvil Tweaks  
+[官網](https://www.curseforge.com/minecraft/mc-mods/anvil-tweaks)
+[下載](/mods/anviltweaks-3.1.zip)
+* Apotheosis  
+[官網](https://www.curseforge.com/minecraft/mc-mods/apotheosis)
+[下載](/mods/Apotheosis-1.16.3-4.4.1.zip)

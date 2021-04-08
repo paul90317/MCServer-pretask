@@ -3,8 +3,8 @@
 [連鎖挖礦](#連鎖挖礦)
 [背包](#背包)
 [地圖](#地圖)
-[Imfo](#Imfo)
-[UI](#UI)
+[資訊](#資訊)
+[顯示]](#顯示)
 [冒險](#冒險)
 [交通](#交通)
 [挑戰](#挑戰)
@@ -29,12 +29,12 @@
 [官網](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap?page=4)
 * Antique Atlas  
 [官網](https://www.curseforge.com/minecraft/mc-mods/antique-atlas)
-## Imfo
+## 資訊
 * Just Enough Items  
 [官網](https://www.curseforge.com/minecraft/mc-mods/jei)
 * Enchantment Descriptions    
 [官網](https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions)
-## UI
+## 顯示
 * Apple Skin  
 [官網](https://www.curseforge.com/minecraft/mc-mods/appleskin)
 * ToroHealth Damage Indicators  

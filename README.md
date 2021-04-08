@@ -3,7 +3,7 @@
 [連鎖挖礦](#連鎖挖礦)
 [背包](#背包)
 [地圖](#地圖)
-[資訊](#資訊)
+[生存物品](#生存物品)
 [顯示](#顯示)
 [冒險](#冒險)
 [交通](#交通)
@@ -25,13 +25,6 @@
 * Vein Mining  
 [官網](https://www.curseforge.com/minecraft/mc-mods/vein-mining)
 [下載](/mods/veinmining-forge-1.16.5-0.10.zip)
-## 背包
-* Useful Backpacks  
-[官網](https://www.curseforge.com/minecraft/mc-mods/useful-backpacks)
-[下載](/mods/useful_backpacks-1.16.5-1.12.0.88.zip)
-* Inventory Profiles  
-[官網](https://www.curseforge.com/minecraft/mc-mods/inventory-profiles)
-[下載](/mods/inventoryprofiles-forge-1.16.2-0.4.2.zip)
 ## 地圖
 * Xaero's World Map  
 [官網](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map)
@@ -42,13 +35,16 @@
 * Antique Atlas  
 [官網](https://www.curseforge.com/minecraft/mc-mods/antique-atlas)
 [下載](/mods/antiqueatlas-5.4.4-forge.zip)
-## 資訊
+## 生存物品
 * Just Enough Items  
 [官網](https://www.curseforge.com/minecraft/mc-mods/jei)
 [下載](/mods/jei-1.16.5-7.6.1.75.zip)
-* Enchantment Descriptions    
-[官網](https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions)
-[下載](/mods/EnchantmentDescriptions-1.16.5-7.0.3.zip)
+* Useful Backpacks  
+[官網](https://www.curseforge.com/minecraft/mc-mods/useful-backpacks)
+[下載](/mods/useful_backpacks-1.16.5-1.12.0.88.zip)
+* Inventory Profiles  
+[官網](https://www.curseforge.com/minecraft/mc-mods/inventory-profiles)
+[下載](/mods/inventoryprofiles-forge-1.16.2-0.4.2.zip)
 ## 顯示
 * Apple Skin  
 [官網](https://www.curseforge.com/minecraft/mc-mods/appleskin)
@@ -122,3 +118,6 @@
 * Apotheosis  
 [官網](https://www.curseforge.com/minecraft/mc-mods/apotheosis)
 [下載](/mods/Apotheosis-1.16.3-4.4.1.zip)
+* Enchantment Descriptions    
+[官網](https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions)
+[下載](/mods/EnchantmentDescriptions-1.16.5-7.0.3.zip)

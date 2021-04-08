@@ -12,6 +12,7 @@
 [動作](#動作)
 [自訂義](#自訂義)
 [重生](#重生)
+[強化](#強化)
 ## 砍樹
 * Falling Tree  
 [官網](https://www.curseforge.com/minecraft/mc-mods/falling-tree)

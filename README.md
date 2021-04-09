@@ -1,17 +1,15 @@
 # Minecraft 模組推薦 1.16 forge
 [砍樹](#砍樹)
 [連鎖挖礦](#連鎖挖礦)
-[背包](#背包)
 [地圖](#地圖)
 [生存物品](#生存物品)
 [顯示](#顯示)
 [冒險](#冒險)
 [交通](#交通)
-[挑戰](#挑戰)
 [經驗值](#經驗值)
 [動作](#動作)
-[自訂義](#自訂義)
-[重生](#重生)
+[配方](#配方)
+[遊戲規則](#遊戲規則)
 [槍械](#槍械)
 [附魔](#附魔)
 ## 砍樹
@@ -52,6 +50,9 @@
 * ToroHealth Damage Indicators  
 [官網](https://www.curseforge.com/minecraft/mc-mods/torohealth-damage-indicators)
 [下載](/mods/torohealth-1.16.4-forge-4.zip)
+* Hwyla  
+[官網](https://www.curseforge.com/minecraft/mc-mods/hwyla)
+[下載](/mods/Hwyla-forge-1.10.11-B78_1.16.2.zip)
 ## 冒險
 * The Twilight Forest  
 [官網](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest)
@@ -72,13 +73,6 @@
 * Curious Elytra
 [官網](https://www.curseforge.com/minecraft/mc-mods/curious-elytra)
 [下載](/mods/curiouselytra-forge-1.16.5-4.0.2.3.zip)
-## 挑戰
-* Improved Mobs  
-[官網](https://www.curseforge.com/minecraft/mc-mods/improved-mobs)
-[下載](/mods/ImprovedMobs-1.16.3-1.7.3.zip)
-* Progressive Bosses  
-[官網](https://www.curseforge.com/minecraft/mc-mods/progressive-bosses)
-[下載](/mods/ProgressiveBosses-2.2.0-mc1.16.x.zip)
 ## 經驗值
 * Exp Ore  
 [官網](https://www.curseforge.com/minecraft/mc-mods/exp-ore-block-mod)
@@ -93,20 +87,29 @@
 * Elenai Dodge 2  
 [官網](https://www.curseforge.com/minecraft/mc-mods/elenai-dodge-2)
 [下載](/mods/ElenaiDodge2-1.16.X-1.0.9b.zip)
-## 自訂義
+## 配方
 * Craft Tweaker  
 [官網](https://www.curseforge.com/minecraft/mc-mods/crafttweaker)
 [下載](/mods/CraftTweaker-1.16.5-7.1.0.193.zip)
-* Configurable Extra Mob Drops   
-[官網](https://www.curseforge.com/minecraft/mc-mods/configurable-extra-mob-drops)
-[下載](/mods/configurableextramobdrops_1.16.5-1.5.zip)
-## 重生
+* Project E  
+[官網](https://www.curseforge.com/minecraft/mc-mods/projecte)
+[下載](/mods/ProjectE-1.16.5-PE1.0.1B.zip)
+## 遊戲規則
 * Forgiving Void  
 [官網](https://www.curseforge.com/minecraft/mc-mods/forgiving-void)
 [下載](/mods/ForgivingVoid_1.16.3-5.2.0.zip)
 * Grave Stone  
 [官網](https://www.curseforge.com/minecraft/mc-mods/gravestone-mod)
 [下載](/mods/gravestone-1.16.5-1.0.1.zip)
+* Improved Mobs  
+[官網](https://www.curseforge.com/minecraft/mc-mods/improved-mobs)
+[下載](/mods/ImprovedMobs-1.16.3-1.7.3.zip)
+* Progressive Bosses  
+[官網](https://www.curseforge.com/minecraft/mc-mods/progressive-bosses)
+[下載](/mods/ProgressiveBosses-2.2.0-mc1.16.x.zip)
+* Configurable Extra Mob Drops   
+[官網](https://www.curseforge.com/minecraft/mc-mods/configurable-extra-mob-drops)
+[下載](/mods/configurableextramobdrops_1.16.5-1.5.zip)
 ## 槍械
 * MrCrayfish's Gun  
 [官網](https://www.curseforge.com/minecraft/mc-mods/mrcrayfishs-gun-mod)

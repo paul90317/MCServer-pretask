@@ -63,6 +63,9 @@
 * When Dungeons Arise  
 [官網](https://www.curseforge.com/minecraft/mc-mods/when-dungeons-arise)
 [下載](/mods/dungeonsarise1.16.5-1.2.72a.zip)
+* Dungeons Crawl  
+[官網](https://www.curseforge.com/minecraft/mc-mods/dungeon-crawl)
+[下載](/mods/DungeonCrawl-1.16.3-2.2.4.zip)
 ## 交通
 * Callable Horses  
 [官網](https://www.curseforge.com/minecraft/mc-mods/callable-horses)
@@ -73,6 +76,9 @@
 * Curious Elytra
 [官網](https://www.curseforge.com/minecraft/mc-mods/curious-elytra)
 [下載](/mods/curiouselytra-forge-1.16.5-4.0.2.3.zip)
+* Paraliders  
+[官網](https://www.curseforge.com/minecraft/mc-mods/paragliders)
+[下載](/mods/Paraglider-1.16.2-1.3.1.0.zip)
 ## 經驗值
 * Exp Ore  
 [官網](https://www.curseforge.com/minecraft/mc-mods/exp-ore-block-mod)

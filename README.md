@@ -12,6 +12,7 @@
 [遊戲規則](#遊戲規則)
 [槍械](#槍械)
 [附魔](#附魔)
+[養老](#養老)
 ## 砍樹
 * Falling Tree  
 [官網](https://www.curseforge.com/minecraft/mc-mods/falling-tree)

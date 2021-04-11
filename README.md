@@ -30,10 +30,10 @@
 * Xaero's Minimap  
 [官網](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap?page=4)
 [下載](/mods/Xaeros_Minimap_21.5.0_Forge_1.16.5.zip)
+## 生存物品
 * Antique Atlas  
 [官網](https://www.curseforge.com/minecraft/mc-mods/antique-atlas)
 [下載](/mods/antiqueatlas-5.4.4-forge.zip)
-## 生存物品
 * Just Enough Items  
 [官網](https://www.curseforge.com/minecraft/mc-mods/jei)
 [下載](/mods/jei-1.16.5-7.6.1.75.zip)

@@ -43,6 +43,9 @@
 * Inventory Profiles  
 [官網](https://www.curseforge.com/minecraft/mc-mods/inventory-profiles)
 [下載](/mods/inventoryprofiles-forge-1.16.2-0.4.2.zip)
+* Natures Compass  
+[官網](https://www.curseforge.com/minecraft/mc-mods/natures-compass)
+[下載](/mods/NaturesCompass-1.16.5-1.8.6.zip)
 ## 顯示
 * Apple Skin  
 [官網](https://www.curseforge.com/minecraft/mc-mods/appleskin)

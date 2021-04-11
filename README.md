@@ -92,6 +92,9 @@
 * XP From Harvest  
 [官網](https://www.curseforge.com/minecraft/mc-mods/xp-from-harvest)
 [下載](/mods/XPFromHarvest-1.16.3-1.2.1.zip)
+* XP Coins and Games  
+[官網](https://www.curseforge.com/minecraft/mc-mods/xp-coins)
+[下載](/mods/XPCoins(FORGE-1.16.4)vrs1.0.4.zip)
 ## 動作
 * Elenai Dodge 2  
 [官網](https://www.curseforge.com/minecraft/mc-mods/elenai-dodge-2)
@@ -133,3 +136,16 @@
 * Enchantment Descriptions    
 [官網](https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions)
 [下載](/mods/EnchantmentDescriptions-1.16.5-7.0.3.zip)
+* Additioal Ender Items  
+[官網](https://www.curseforge.com/minecraft/mc-mods/additional-ender-items)
+[下載](/mods/additionalenderitems_1.16.4_1.2.0.zip)
+## 養老
+* Aquaculture 2  
+[官網](https://www.curseforge.com/minecraft/mc-mods/aquaculture)
+[下載](/mods/Aquaculture-1.16.5-2.1.16.zip)
+* Fishing Real  
+[官網](https://www.curseforge.com/minecraft/mc-mods/fishing-real)
+[下載](/mods/fishingreal-1.16.3-1.0.0.zip)
+* Adorn  
+[官網](https://www.curseforge.com/minecraft/mc-mods/adorn-for-forge)
+[下載](/mods/Adorn-1.13.1+1.16.4-forge.zip)

@@ -150,3 +150,9 @@
 * Adorn  
 [官網](https://www.curseforge.com/minecraft/mc-mods/adorn-for-forge)
 [下載](/mods/Adorn-1.13.1+1.16.4-forge.zip)
+* Cooking for Blockheads  
+[官網](https://www.curseforge.com/minecraft/mc-mods/cooking-for-blockheads)
+[下載](/mods/CookingForBlockheads_1.16.5-9.3.1.zip)
+* Food Expansion: Reimagined  
+[官網](https://www.curseforge.com/minecraft/mc-mods/food-expansion-reimagined)
+[下載](/mods/foodexpansion-1.6.1.zip)

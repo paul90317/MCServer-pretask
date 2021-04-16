@@ -3,7 +3,7 @@
 [連鎖挖礦](#連鎖挖礦)
 [地圖](#地圖)
 [生存物品](#生存物品)
-[顯示](#顯示)
+[生存助手](#顯示)
 [冒險](#冒險)
 [交通](#交通)
 [經驗值](#經驗值)
@@ -35,19 +35,13 @@
 * Antique Atlas  
 [官網](https://www.curseforge.com/minecraft/mc-mods/antique-atlas)
 [下載](/mods/antiqueatlas-5.4.4-forge.zip)
-* Just Enough Items  
-[官網](https://www.curseforge.com/minecraft/mc-mods/jei)
-[下載](/mods/jei-1.16.5-7.6.1.75.zip)
 * Useful Backpacks  
 [官網](https://www.curseforge.com/minecraft/mc-mods/useful-backpacks)
 [下載](/mods/useful_backpacks-1.16.5-1.12.0.88.zip)
-* Inventory Profiles  
-[官網](https://www.curseforge.com/minecraft/mc-mods/inventory-profiles)
-[下載](/mods/inventoryprofiles-forge-1.16.2-0.4.2.zip)
 * Natures Compass  
 [官網](https://www.curseforge.com/minecraft/mc-mods/natures-compass)
 [下載](/mods/NaturesCompass-1.16.5-1.8.6.zip)
-## 顯示
+## 生存助手  
 * Apple Skin  
 [官網](https://www.curseforge.com/minecraft/mc-mods/appleskin)
 [下載](/mods/AppleSkin-mc1.16.2-forge-1.0.14.zip)
@@ -57,6 +51,12 @@
 * Hwyla  
 [官網](https://www.curseforge.com/minecraft/mc-mods/hwyla)
 [下載](/mods/Hwyla-forge-1.10.11-B78_1.16.2.zip)
+* Inventory Profiles  
+[官網](https://www.curseforge.com/minecraft/mc-mods/inventory-profiles)
+[下載](/mods/inventoryprofiles-forge-1.16.2-0.4.2.zip)
+* Just Enough Items  
+[官網](https://www.curseforge.com/minecraft/mc-mods/jei)
+[下載](/mods/jei-1.16.5-7.6.1.75.zip)
 ## 冒險
 * The Twilight Forest  
 [官網](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest)

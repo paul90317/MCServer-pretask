@@ -77,7 +77,7 @@
 * Waystones  
 [官網](https://www.curseforge.com/minecraft/mc-mods/waystones)
 [下載](/mods/Waystones_1.16.5-7.4.0.zip)
-* Curious Elytra
+* Curious Elytra  
 [官網](https://www.curseforge.com/minecraft/mc-mods/curious-elytra)
 [下載](/mods/curiouselytra-forge-1.16.5-4.0.2.3.zip)
 * Paraliders  

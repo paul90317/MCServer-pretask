@@ -41,6 +41,9 @@
 * Natures Compass  
 [官網](https://www.curseforge.com/minecraft/mc-mods/natures-compass)
 [下載](/mods/NaturesCompass-1.16.5-1.8.6.zip)
+* Hole Filler  
+[官網](https://www.curseforge.com/minecraft/mc-mods/hole-filler-mod)
+[下載](/mods/hole_filler_mod_1.2.4.1-mc_1.16.x-forge.zip)
 ## 生存助手  
 * Apple Skin  
 [官網](https://www.curseforge.com/minecraft/mc-mods/appleskin)
@@ -57,6 +60,9 @@
 * Just Enough Items  
 [官網](https://www.curseforge.com/minecraft/mc-mods/jei)
 [下載](/mods/jei-1.16.5-7.6.1.75.zip)
+* Carry On  
+[官網](https://www.curseforge.com/minecraft/mc-mods/carry-on)
+[下載](/mods/carryon-1.16.5-1.15.3.13.zip)
 ## 冒險
 * The Twilight Forest  
 [官網](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest)
@@ -123,6 +129,9 @@
 * Configurable Extra Mob Drops   
 [官網](https://www.curseforge.com/minecraft/mc-mods/configurable-extra-mob-drops)
 [下載](/mods/configurableextramobdrops_1.16.5-1.5.zip)
+* End Remastered  
+[官網](https://www.curseforge.com/minecraft/mc-mods/endremastered)
+[下載](/mods/EndRemastered-R36.zip)
 ## 槍械
 * MrCrayfish's Gun  
 [官網](https://www.curseforge.com/minecraft/mc-mods/mrcrayfishs-gun-mod)

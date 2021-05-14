@@ -13,6 +13,7 @@
 [槍械](#槍械)
 [附魔](#附魔)
 [養老](#養老)
+[紅石](#紅石)
 ## 砍樹
 * Falling Tree  
 [官網](https://www.curseforge.com/minecraft/mc-mods/falling-tree)
@@ -165,3 +166,7 @@
 * Food Expansion: Reimagined  
 [官網](https://www.curseforge.com/minecraft/mc-mods/food-expansion-reimagined)
 [下載](/mods/foodexpansion-1.6.1.zip)
+## 紅石
+* Quark  
+[官網](https://www.curseforge.com/minecraft/mc-mods/quark)  
+[下載](/mods/Quark-r2.4-311.zip)  

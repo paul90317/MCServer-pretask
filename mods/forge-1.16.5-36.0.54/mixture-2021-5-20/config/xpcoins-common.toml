@@ -1,0 +1,63 @@
+
+["XP Coin Drop Rates (X/10000)"]
+	#Range: 0 ~ 10000
+	"Golden Coin Rate" = 75
+	"Copper Coins Can Drop" = true
+	"Golden Coins Can Drop" = true
+	#Range: 0 ~ 10000
+	"Platinum Coin Rate" = 10
+	#Range: 0 ~ 10000
+	"Copper Coin Rate" = 500
+	#Range: 0 ~ 10000
+	"Silver Coin Rate" = 150
+	"Silver Coins Can Drop" = true
+	"Platinum Coins Can Drop" = true
+
+["Coin Press Bonus"]
+	#Range: 1 ~ 100
+	"Coin Press Bonus Percent Chance" = 3
+	"Coin Press has a Chance NOT to Consume Experience Points" = true
+
+["Gamebot Behaviors"]
+	#Range: 1 ~ 8
+	"Gamebot's Max Hearts" = 4
+	"Gamebot is Tempted with XP Coins" = true
+	"Gamebot Runs from Players" = true
+
+["Gamebot Spawning"]
+	"End Spawning Enabled" = true
+	#Range: 1 ~ 100
+	"Nether Spawn Weight" = 12
+	#Range: 1 ~ 100
+	"Overworld Spawn Weight" = 12
+	#Range: 1 ~ 100
+	"End Spawn Weight" = 12
+	"Overworld Spawning Enabled" = true
+	"Nether Spawning Enabled" = true
+
+["Gamebot Game Drop Rate (X/1000)"]
+	"Card Draw Game can Drop" = true
+	#Range: 0 ~ 1000
+	"100 Game Drop Rate" = 10
+	"Lucky Dice Game can Drop" = true
+	#Range: 0 ~ 1000
+	"Lucky Dice Game Drop Rate" = 10
+	"High Low Dice Game can Drop" = true
+	"Double or Nothing Game can Drop" = true
+	#Range: 0 ~ 1000
+	"High Low Dice Game Drop Rate" = 10
+	"100 Game can Drop" = true
+	"High Low Cards Game can Drop" = true
+	#Range: 0 ~ 1000
+	"High Low Cards Game Drop Rate" = 10
+	#Range: 0 ~ 1000
+	"21 or 9 Game Drop Rate" = 10
+	#Range: 0 ~ 1000
+	"Double or Nothing Game Drop Rate" = 10
+	"21 or 9 Game can Drop" = true
+	#Range: 0 ~ 1000
+	"Card Draw Game Drop Rate" = 10
+
+["Card Options"]
+	"Aces High" = true
+

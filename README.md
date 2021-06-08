@@ -9,5 +9,5 @@
 [forge download(以下檔案(client, server)來源，以下是複製檔)](https://files.minecraftforge.net/net/minecraftforge/forge/)  
 [client(請只用 client 選項)](/forge/forge-1.16.5-36.0.54-installer.jar)  
 [server(安裝檔，推薦下載，主程式用的到，伺服器核心)](/installer/forge-1.16.5-36.0.54)  
-[CurseForge官網，以下模組來源](https://www.curseforge.com/minecraft/mc-mods)
+[CurseForge官網，以下模組來源](https://www.curseforge.com/minecraft/mc-mods)  
 [模組推薦](mods/forge-1.16.5-36.0.54/README.md)  
